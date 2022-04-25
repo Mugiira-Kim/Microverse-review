@@ -5,7 +5,7 @@ body {
 #navbar {
   display: flex;
   justify-content: space-between;
-  background-color: #cf1717;
+  background-color: blue;
   position: fixed;
   width: 100vw;
 }
@@ -71,7 +71,7 @@ body {
 }
 #projects #main-con #project-tile a {
   text-decoration: none;
-  color: #cf1717;
+  color: greenyellow;
   width: 150px;
   margin: 0px;
 }
